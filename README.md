@@ -59,6 +59,7 @@
 - [PhyCLIP](https://github.com/alvinxhan/PhyCLIP) - optimally delineates a tree into statistically-principled clusters
 - [USHER](https://github.com/yatisht/usher/) - Ultrafast Sample Placement on Existing Trees
 - [TreeCluster](https://github.com/niemasd/TreeCluster) - Efficient phylogenetic clustering of viral sequences 
+- [fastbaps](https://github.com/gtonkinhill/fastbaps) - Cluster sequence alignments using hierarchical Bayesian clustering
 
 
 # Organism specific tools
@@ -70,7 +71,6 @@
 
 # Annotation
 - [VADR](https://github.com/ncbi/vadr) - Viral Annotation DefineR
-- [fastbaps](https://github.com/gtonkinhill/fastbaps) - Cluster sequence alignments using hierarchical Bayesian clustering
 - [CrossMap](https://github.com/liguowang/CrossMap) - ift over genome coordinates from one genome version to another
 
 # Misc
