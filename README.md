@@ -101,6 +101,7 @@ genome assemblies given as input
 - [rpimer](https://www.bioconductor.org/packages/release/bioc/html/rprimer.html) - Design Degenerate Oligos from a Multiple DNA Sequence Alignment
 - [CATCH](https://github.com/broadinstitute/catch) - A package for designing compact and comprehensive capture probe sets. 
 - [primers](https://github.com/Lattice-Automation/primers) - small, straightforward tool for creating PCR primers. Its target use-case is DNA assembly.
+- [varVAMP](https://github.com/jonas-fuchs/varVAMP) - primer design tool like primerscheme
 
 # Viral Pipelines
 - [VirGenA](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6488938/) - a reference-based assembler for variable viral genomes
