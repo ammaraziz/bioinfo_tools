@@ -14,7 +14,8 @@
 - [V-Phaser2](https://www.broadinstitute.org/viral-genomics/v-phaser-2) - call variants in genetically heterogeneous populations 
 
 # Mapping/Clustering
-- [KMA](https://bitbucket.org/genomicepidemiology/kma/src/master/README.md) - [MMseqs2] - https://github.com/soedinglab/MMseqs2
+- [KMA](https://bitbucket.org/genomicepidemiology/kma/src/master/README.md) - fast alignment
+- [MMseqs2](https://github.com/soedinglab/MMseqs2)
 
 # Assembly
 - [HaploFlow](https://github.com/hzi-bifo/Haploflow) - strain-aware viral genome assembler for short read sequence data
