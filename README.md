@@ -34,6 +34,7 @@
 - [racon](https://github.com/lbcb-sci/racon) - Ultrafast consensus module for raw de novo genome assembly of long uncorrected reads 
 - [Strainline](https://github.com/HaploKit/Strainline) -  Full-length de novo viral haplotype reconstruction from noisy long reads
 - [Hairsplitter](https://github.com/RolandFaure/HairSplitter?tab=readme-ov-file) - separates very close sequences that have been collapsed during assembly
+- [HaploMDF](https://github.com/dhcai21/HaploDMF) - 
 
 # Novel Alignment Tools
 - [LAST](https://gitlab.com/mcfrith/last)
@@ -49,6 +50,7 @@
 - [TransPhylo](https://github.com/xavierdidelot/TransPhylo) - reconstruct infectious disease transmission using genomic data
 - [StrainHub](https://github.com/abschneider/StrainHub) - web-based software to generate disease transmission networks and associated metrics from a combination of a phylogenetic tree and associated metadata.
 - [Treemmer](https://github.com/fmenardo/Treemmer) - reduce size and redundancy of phylogenetic datasets
+- [dRep](https://github.com/MrOlm/drep) - Rapid and accurate comparison and de-replication of microbial genomes
 - [PARNAS](https://github.com/flu-crew/parnas) - Phylogenetic maximum representation sampling: choosing most representative strains or taxa
 - [ReporTree](https://github.com/insapathogenomics/ReporTree) - detection of genetic clusters and their linkage to epidemiological data
 - [phyloscanner](https://github.com/BDI-pathogens/phyloscanner) - Phylogenetics between and within hosts at once, all along the genome. 
@@ -91,6 +93,7 @@ genome assemblies given as input
 - [splink](https://github.com/moj-analytical-services/splink) - Fast, accurate and scalable probabilistic data linkage
 - [Taxor](https://github.com/JensUweUlrich/Taxor) - long read taxonomic classification
 - [Bazam](https://github.com/ssadedin/bazam) - extract paired reads in FASTQ format from coordinate sorted BAM 
+- [ReSeq](https://github.com/schmeing/ReSeq) - realistic Illumina high-throughput sequencing data
 
 
 # Primer related tools
@@ -127,21 +130,11 @@ genome assemblies given as input
 - [ntEdit](https://github.com/bcgsc/ntedit) - Fast, lightweight, scalable genome sequence polishing and SNV detection & annotation
 - [GAPPadder](https://github.com/simoncchu/GAPPadder) - tool for closing gaps on draft genomes with short sequencing data  
 
-# Read Simulation
-- [ReSeq](https://github.com/schmeing/ReSeq) - realistic Illumina high-throughput sequencing data
-
-
-# Reference Selection
-- [dRep](https://github.com/MrOlm/drep) - Rapid and accurate comparison and de-replication of microbial genomes
-
-
 # Transmission
 - [TRACS](https://gthlab.au/tracs) - Fast pairwise transmission inference from single genome and/or metagenomic data 
 - [VStrains](https://github.com/metagentools/VStrains) - De Novo Reconstruction of Viral Strains via Iterative Path Extraction From Assembly Graphs
 - [outbreaker2](https://github.com/reconhub/outbreaker2) - Disease outbreak reconstruction from epidemiological and genetic data 
 - [regentrans](https://github.com/Snitkin-Lab-Umich/regentrans?tab=readme-ov-file) - R package for investigating regional pathogen transmission using genomic data
-- 
-
 
 # Read Reassigners
 - [MORA](https://github.com/AfZheng126/MORA) - MetagenOmic read Re-Assigner and abundance quantifier 
