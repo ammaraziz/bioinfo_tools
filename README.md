@@ -35,7 +35,6 @@
 - [Strainline](https://github.com/HaploKit/Strainline) -  Full-length de novo viral haplotype reconstruction from noisy long reads
 - [Hairsplitter](https://github.com/RolandFaure/HairSplitter?tab=readme-ov-file) - separates very close sequences that have been collapsed during assembly
 
-
 # Novel Alignment Tools
 - [LAST](https://gitlab.com/mcfrith/last)
 - [MetaMaps](https://github.com/DiltheyLab/MetaMaps) - It simultaenously carries out read assignment and sample composition estimation.
@@ -108,7 +107,7 @@ genome assemblies given as input
 - [Aquascope](https://github.com/CDCgov/aquascope) - SC2 wastewater pipeline
 - [ASPIRE](https://github.com/kevingroup/aspire) - a pipeline for constructing virus-sized genomes out of NGS reads (short reads)
 - [REVICA](https://github.com/greninger-lab/revica?tab=readme-ov-file) - evica is a reference-based viral consensus genome assembly pipeline for some of the most common respiratory viruses
-
+- [COBRA](https://github.com/linxingchen/cobra) - tool to get higher quality viral genomes assembled from metagenomes of short paired-end reads
 
 # Viral Specific tools
 - [VirStrain](https://github.com/liaoherui/VirStrain) - An RNA virus strain-level identification tool for short reads.
