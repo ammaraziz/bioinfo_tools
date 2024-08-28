@@ -127,6 +127,7 @@ genome assemblies given as input
 - [VStrains](https://github.com/metagentools/VStrains) - De Novo Reconstruction of Viral Strains via Iterative Path Extraction From Assembly Graphs
 - [outbreaker2](https://github.com/reconhub/outbreaker2) - Disease outbreak reconstruction from epidemiological and genetic data 
 - [regentrans](https://github.com/Snitkin-Lab-Umich/regentrans?tab=readme-ov-file) - R package for investigating regional pathogen transmission using genomic data
+- [SameStrain](https://gitlab.pasteur.fr/BEBP/samestrain-r-package) - estimate genetic distance thresholds for single-strain outbreaks from a contaminated environmental or food source, based on outbreak-specific features (ie, pathogen genetic mutation rate and time since initial source contamination), by simulating the accumulation of mutations using these parameters. 
 
 # Read Reassigners
 - [MORA](https://github.com/AfZheng126/MORA) - MetagenOmic read Re-Assigner and abundance quantifier 
