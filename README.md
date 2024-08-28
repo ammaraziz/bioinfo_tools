@@ -1,6 +1,5 @@
 # Viz
 - [BamSnap](https://bamsnap.readthedocs.io/en/latest/) - visualise bam alignments
-- [EYE Toolkit](http://etetoolkit.org/) - python phylo viz framework 
 - [modbamtools](https://github.com/rrazaghi/modbamtools) - Set of tools to manipulate and visualize modified base bam files
 - [alignoth](https://github.com/alignoth/alignoth) - Creating alignment plots from bam files
 - [DNAFeaturesViewer](https://edinburgh-genome-foundry.github.io/DnaFeaturesViewer/index.html) - Python library to visualize DNA features, e.g. from GenBank or Gff files, or Biopython SeqRecords
