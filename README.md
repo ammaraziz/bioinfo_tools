@@ -60,7 +60,6 @@
 
 # Organism specific tools
 - [Quasitools](https://github.com/phac-nml/quasitools) - Quasitools is a collection of tools for analysing viral quasispecies data
-- [viral-ngs](https://viral-ngs.readthedocs.io/)
 - [QuasiFlow](https://github.com/AlfredUg/QuasiFlow) - A Nextflow Pipeline for Analysis of NGS-based HIV Drug Resistance Data 
 - [QSutils](https://www.bioconductor.org/packages/release/bioc/html/QSutils.html) - Set of utility functions for viral quasispecies analysis with NGS data
 
@@ -111,12 +110,12 @@ genome assemblies given as input
 - [AccuVIR](https://github.com/rainyrubyzhou/AccuVIR) - utilizes path searching and sampling in sequence alignment graphs to assemble or polish draft assembly of viral genomes
 - [VirStrain](https://github.com/liaoherui/VirStrain) - An RNA virus strain-level identification tool for short reads.
 - [sierra-local](https://github.com/PoonLab/sierra-local) -  Retrieve HIVdb algorithm as XML and apply locally to HIV sequences
+- [viral-ngs](https://viral-ngs.readthedocs.io/)
 
 # NCBI Submission Tools
 - [SeqSender](https://github.com/CDCgov/seqsender) - Automated Pipeline to Generate FTP Files and Manage Submission of Sequence Data to Public Repositories
 - [convert_gff to tbl](https://github.com/jorvis/biocode/blob/master/gff/convert_gff3_to_ncbi_tbl.py)
 - [TOSTADAS](https://github.com/CDCgov/tostadas) - Toolkit for Open Sequence Triage, Annotation and DAtabase Submission
-
 
 # Gap closing/Polish
 - [fgap](https://github.com/pirovc/fgap) - automated gap closing tool
