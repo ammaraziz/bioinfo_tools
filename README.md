@@ -18,9 +18,6 @@
 - [bammix](https://github.com/chrisruis/bammix) - Summarise nucleotide counts at a set of positions in a BAM file to search for mixtures
 - [VCFGenie](https://github.com/chasewnelson/VCFgenie) - program uses a binomial distribution to determine the probability that each variant is due to a known sequencing error rate
 
-# Mapping/Clustering
-- [MMseqs2](https://github.com/soedinglab/MMseqs2)
-
 # Assembly
 - [HaploFlow](https://github.com/hzi-bifo/Haploflow) - strain-aware viral genome assembler for short read sequence data
 - [SKESA](https://github.com/ncbi/SKESA) - ncbi assembler
@@ -34,9 +31,8 @@
 - [racon](https://github.com/lbcb-sci/racon) - Ultrafast consensus module for raw de novo genome assembly of long uncorrected reads 
 - [Strainline](https://github.com/HaploKit/Strainline) -  Full-length de novo viral haplotype reconstruction from noisy long reads
 - [Hairsplitter](https://github.com/RolandFaure/HairSplitter?tab=readme-ov-file) - separates very close sequences that have been collapsed during assembly
-- [HaploMDF](https://github.com/dhcai21/HaploDMF) - 
 
-# Novel Alignment Tools
+# Alignment Tools
 - [LAST](https://gitlab.com/mcfrith/last)
 - [MetaMaps](https://github.com/DiltheyLab/MetaMaps) - It simultaenously carries out read assignment and sample composition estimation.
 - [KMA](https://bitbucket.org/genomicepidemiology/kma/src/master/README.md) fast alignment
@@ -94,7 +90,7 @@ genome assemblies given as input
 - [Taxor](https://github.com/JensUweUlrich/Taxor) - long read taxonomic classification
 - [Bazam](https://github.com/ssadedin/bazam) - extract paired reads in FASTQ format from coordinate sorted BAM 
 - [ReSeq](https://github.com/schmeing/ReSeq) - realistic Illumina high-throughput sequencing data
-
+- [MMseqs2](https://github.com/soedinglab/MMseqs2)
 
 # Primer related tools
 - [primalscheme](https://github.com/aresti/primalscheme) - a tool for designing primer panels for multiplex PCR
