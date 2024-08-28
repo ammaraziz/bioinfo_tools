@@ -22,7 +22,6 @@
 - [HaploFlow](https://github.com/hzi-bifo/Haploflow) - strain-aware viral genome assembler for short read sequence data
 - [SKESA](https://github.com/ncbi/SKESA) - ncbi assembler
 - [SLAG](https://github.com/cfcrane/SLAG?tab=readme-ov-file) - local assembly program
-- [AccuVIR](https://github.com/rainyrubyzhou/AccuVIR) - utilizes path searching and sampling in sequence alignment graphs to assemble or polish draft assembly of viral genomes
 - [SRAssembler](https://github.com/BrendelGroup/SRAssembler) - Selective and Recursive local Assembler
 - [ContigExtender](https://github.com/dengzac/contig-extender) - recursive extending strategy that explores multiple extending paths to achieve highly accurate longer contigs
 - [GoldRush](https://github.com/bcgsc/goldrush) - memory-efficient de novo assembly of long reads. Related: [GoldPolish](https://github.com/bcgsc/goldPolish).
@@ -56,6 +55,7 @@
 - [USHER](https://github.com/yatisht/usher/) - Ultrafast Sample Placement on Existing Trees
 - [TreeCluster](https://github.com/niemasd/TreeCluster) - Efficient phylogenetic clustering of viral sequences 
 - [fastbaps](https://github.com/gtonkinhill/fastbaps) - Cluster sequence alignments using hierarchical Bayesian clustering
+- [TreeKnit](https://github.com/PierreBarrat/TreeKnit.jl) - infers Ancestral Reassortment Graphs for segmented genomes (typically, human influenza)
 
 
 # Organism specific tools
@@ -108,12 +108,9 @@ genome assemblies given as input
 - [ASPIRE](https://github.com/kevingroup/aspire) - a pipeline for constructing virus-sized genomes out of NGS reads (short reads)
 - [REVICA](https://github.com/greninger-lab/revica?tab=readme-ov-file) - evica is a reference-based viral consensus genome assembly pipeline for some of the most common respiratory viruses
 - [COBRA](https://github.com/linxingchen/cobra) - tool to get higher quality viral genomes assembled from metagenomes of short paired-end reads
-
-# Viral Specific tools
+- [AccuVIR](https://github.com/rainyrubyzhou/AccuVIR) - utilizes path searching and sampling in sequence alignment graphs to assemble or polish draft assembly of viral genomes
 - [VirStrain](https://github.com/liaoherui/VirStrain) - An RNA virus strain-level identification tool for short reads.
-- [TreeKnit](https://github.com/PierreBarrat/TreeKnit.jl) - infers Ancestral Reassortment Graphs for segmented genomes (typically, human influenza)
 - [sierra-local](https://github.com/PoonLab/sierra-local) -  Retrieve HIVdb algorithm as XML and apply locally to HIV sequences
-
 
 # NCBI Submission Tools
 - [SeqSender](https://github.com/CDCgov/seqsender) - Automated Pipeline to Generate FTP Files and Manage Submission of Sequence Data to Public Repositories
