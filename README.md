@@ -63,7 +63,6 @@
 - [QuasiFlow](https://github.com/AlfredUg/QuasiFlow) - A Nextflow Pipeline for Analysis of NGS-based HIV Drug Resistance Data 
 - [QSutils](https://www.bioconductor.org/packages/release/bioc/html/QSutils.html) - Set of utility functions for viral quasispecies analysis with NGS data
 
-
 # Annotation
 - [VADR](https://github.com/ncbi/vadr) - Viral Annotation DefineR
 - [CrossMap](https://github.com/liguowang/CrossMap) - ift over genome coordinates from one genome version to another
@@ -90,6 +89,7 @@ genome assemblies given as input
 - [Bazam](https://github.com/ssadedin/bazam) - extract paired reads in FASTQ format from coordinate sorted BAM 
 - [ReSeq](https://github.com/schmeing/ReSeq) - realistic Illumina high-throughput sequencing data
 - [MMseqs2](https://github.com/soedinglab/MMseqs2)
+- [PEP](https://pep.databio.org) - standardised pipeline inputs
 
 # Primer related tools
 - [primalscheme](https://github.com/aresti/primalscheme) - a tool for designing primer panels for multiplex PCR
