@@ -6,7 +6,8 @@
 - [Gensplore](https://gensplore.genomium.org/) - Interactive genome seq viewer
 - [mandrake](https://github.com/bacpop/mandrake) - Fast visualisation of the population structure of pathogens using Stochastic Cluster Embedding
 - [ggkegg](https://github.com/noriakis/ggkegg) - Analyzing and visualizing KEGG information using the grammar of graphics
-- [ggseqlogo](https://omarwagih.github.io/ggseqlogo/) - sequence logos in R 
+- [ggseqlogo](https://omarwagih.github.io/ggseqlogo/) - sequence logos in R
+- [Clinker](https://github.com/gamcil/clinker) - clinker is a pipeline for easily generating publication-quality gene cluster comparison figures.
 
 # Variants and Variant Calling
 - [COJAC](https://github.com/cbg-ethz/cojac) - CoOccurrence adJusted Analysis and Calling
